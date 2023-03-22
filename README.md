@@ -1,5 +1,4 @@
-# posMCPMod
-Sample Size Determination for Dose-Finding Studies through Generating POS using MCP-Mod
+# posMCPMod: Sample Size Determination for Dose-Finding Studies through Generating POS using MCP-Mod
 
 <!-- badges: start -->
 <!-- badges: end -->
