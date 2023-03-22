@@ -9,3 +9,5 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Imports: DoseFinding
+URL: https://github.com/happysundae/posMCPMod
+BugReports: https://github.com/happysundae/posMCPMod/issues
