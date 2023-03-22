@@ -1,0 +1,11 @@
+Package: posMCPMod
+Title: Sample Size Determination for Dose-Finding Studies through Generating POS using MCP-Mod
+Version: 0.0.0.9000
+Authors@R: 
+    c(person("Qing", "Zhao", , "qing.zhao1@merck.com", role = c("aut", "cre")), person("Fang", "Liu", , "fang.liu11@merck.com", role = "ctb"), person("RStudio", role = c("cph", "fnd")))
+Description: Functions to calculate the sample size of a dose-finding study based on the probability of successfully identifying the target dose within an acceptable range (e.g., 80%-120% of the target) using the multiple comparison and modeling procedure (MCP-Mod).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: DoseFinding
